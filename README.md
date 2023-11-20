@@ -24,7 +24,7 @@
 ## Output:
 ![image](https://github.com/SAKTHISWAR/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/blob/main/7.png)
 
-### Name: MURALI  S
+### Name: MURALI    S
 ### Register Number: 212222230088
 
 ## Result:
